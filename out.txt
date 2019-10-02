@@ -1,0 +1,78 @@
+ID: 1
+Entry Time: 1
+Entry Lane: 
+North to South
+Exit Lane: 
+West to East
+ID: 2
+Entry Time: 1
+Entry Lane: 
+South to North
+Exit Lane: 
+West to East
+ID: 3
+Entry Time: 2
+Entry Lane: 
+South to North
+Exit Lane: 
+South to North
+ID: 4
+Entry Time: 3
+Entry Lane: 
+South to North
+Exit Lane: 
+East to West
+ID: 5
+Entry Time: 6
+Entry Lane: 
+North to South
+Exit Lane: 
+West to East
+ID: 6
+Entry Time: 6
+Entry Lane: 
+South to North
+Exit Lane: 
+South to North
+ID: 7
+Entry Time: 7
+Entry Lane: 
+West to East
+Exit Lane: 
+North to South
+ID: 8
+Entry Time: 8
+Entry Lane: 
+West to East
+Exit Lane: 
+South to North
+ID: 9
+Entry Time: 8
+Entry Lane: 
+East to West
+Exit Lane: 
+East to West
+ID: 10
+Entry Time: 10
+Entry Lane: 
+West to East
+Exit Lane: 
+West to East
+ID: 11
+Entry Time: 10
+Entry Lane: 
+East to West
+Exit Lane: 
+East to West
+ID: 12
+Entry Time: 11
+Entry Lane: 
+West to East
+Exit Lane: 
+East to West
+ID: 13
+Entry Time: 11
+Entry Lane: 
+East to West
+Exit Lane: 
+South to North
